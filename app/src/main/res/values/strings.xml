@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Biometrix</string>
+    <string name="prompt_info_title">Enter Title</string>
+    <string name="prompt_info_subtitle">Enter Subtitle</string>
+    <string name="prompt_info_description">This is the description\n</string>
+    <string name="prompt_info_use_app_password">Use App Password</string>
+</resources>
